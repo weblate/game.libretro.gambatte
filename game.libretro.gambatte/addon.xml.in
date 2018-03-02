@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Nintendo - Game Boy / Color (Gambatte) v0.5.0-netlink</summary>
-		<description>Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++.
+		<summary lang="en_GB">Nintendo - Game Boy / Color (Gambatte) v0.5.0-netlink</summary>
+		<description lang="en_GB">Gambatte is an accuracy-focused, open-source, cross-platform Game Boy Color emulator written in C++.
 
 Supported files: .gb, .gbc, .dmg</description>
 		<disclaimer>Game Boy and Game Boy Color are registered trademarks of Nintendo of America, Inc. Gambatte is not affiliated with or endorsed by any of the companies mentioned.</disclaimer>

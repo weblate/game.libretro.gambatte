@@ -64,3 +64,7 @@ msgctxt "#30011"
 msgid "Color correction"
 msgstr ""
 
+msgctxt "#30012"
+msgid "Allow Up+Down / Left+Right"
+msgstr ""
+

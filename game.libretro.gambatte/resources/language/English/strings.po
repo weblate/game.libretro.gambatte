@@ -65,6 +65,6 @@ msgid "Color correction"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Allow Up+Down / Left+Right"
+msgid "Allow Opposing Directions"
 msgstr ""
 

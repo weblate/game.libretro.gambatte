@@ -21,54 +21,58 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Use official bootloader (restart)"
+msgid "Dark Filter Level (percent)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "GB Colorization"
+msgid "Use official bootloader (restart)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Emulated hardware (restart)"
+msgid "GB Colorization"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Internal Palette"
+msgid "Emulated hardware (restart)"
 msgstr ""
 
 msgctxt "#30005"
-msgid "GameBoy Link Mode"
+msgid "Internal Palette"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Network Link Port"
+msgid "GameBoy Link Mode"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Network link server address part 1 (client only)"
+msgid "Network Link Port"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Network link server address part 2 (client only)"
+msgid "Network link server address part 1 (client only)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Network link server address part 3 (client only)"
+msgid "Network link server address part 2 (client only)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Network link server address part 4 (client only)"
+msgid "Network link server address part 3 (client only)"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Color correction"
+msgid "Network link server address part 4 (client only)"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Color correction mode"
+msgid "Color correction"
 msgstr ""
 
 msgctxt "#30013"
+msgid "Color correction mode"
+msgstr ""
+
+msgctxt "#30014"
 msgid "Allow Opposing Directions"
 msgstr ""
 

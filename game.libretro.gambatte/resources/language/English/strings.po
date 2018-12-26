@@ -73,5 +73,9 @@ msgid "Color correction mode"
 msgstr ""
 
 msgctxt "#30014"
+msgid "Mix frames"
+msgstr ""
+
+msgctxt "#30015"
 msgid "Allow Opposing Directions"
 msgstr ""

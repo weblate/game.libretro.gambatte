@@ -25,7 +25,7 @@ msgid "Dark Filter Level (percent)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Use official bootloader (restart)"
+msgid "Use Official Bootloader (restart)"
 msgstr ""
 
 msgctxt "#30003"
@@ -33,7 +33,7 @@ msgid "GB Colorization"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Emulated hardware (restart)"
+msgid "Emulated Hardware (restart)"
 msgstr ""
 
 msgctxt "#30005"
@@ -41,7 +41,7 @@ msgid "Internal Palette"
 msgstr ""
 
 msgctxt "#30006"
-msgid "GameBoy Link Mode"
+msgid "Game Boy Link Mode"
 msgstr ""
 
 msgctxt "#30007"
@@ -49,33 +49,69 @@ msgid "Network Link Port"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Network link server address part 1 (client only)"
+msgid "Network Link Server Address Pt. 01: x__.___.___.___"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Network link server address part 2 (client only)"
+msgid "Network Link Server Address Pt. 10: ___.___.___.x__"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Network link server address part 3 (client only)"
+msgid "Network Link Server Address Pt. 11: ___.___.___._x_"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Network link server address part 4 (client only)"
+msgid "Network Link Server Address Pt. 12: ___.___.___.__x"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Color correction"
+msgid "Network Link Server Address Pt. 02: _x_.___.___.___"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Color correction mode"
+msgid "Network Link Server Address Pt. 03: __x.___.___.___"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Mix frames"
+msgid "Network Link Server Address Pt. 04: ___.x__.___.___"
 msgstr ""
 
 msgctxt "#30015"
+msgid "Network Link Server Address Pt. 05: ___._x_.___.___"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Network Link Server Address Pt. 06: ___.__x.___.___"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Network Link Server Address Pt. 07: ___.___.x__.___"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Network Link Server Address Pt. 08: ___.___._x_.___"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Network Link Server Address Pt. 09: ___.___.__x.___"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Color Correction"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Color Correction Mode"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Color Correction - Frontlight Position"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Mix Frames"
+msgstr ""
+
+msgctxt "#30024"
 msgid "Allow Opposing Directions"
 msgstr ""

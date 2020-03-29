@@ -109,7 +109,7 @@ msgid "Color Correction - Frontlight Position"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Mix Frames"
+msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30024"

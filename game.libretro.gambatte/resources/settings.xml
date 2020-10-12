@@ -23,7 +23,7 @@
 		<setting label="30020" type="select" id="gambatte_gbc_color_correction" values="GBC only|always|disabled" default="GBC only"/>
 		<setting label="30021" type="select" id="gambatte_gbc_color_correction_mode" values="accurate|fast" default="accurate"/>
 		<setting label="30022" type="select" id="gambatte_gbc_frontlight_position" values="central|above screen|below screen" default="central"/>
-		<setting label="30023" type="select" id="gambatte_mix_frames" values="disabled|mix|mix_fast|lcd_ghosting|lcd_ghosting_fast" default="disabled"/>
+		<setting label="30023" type="select" id="gambatte_mix_frames" values="disabled|mix|lcd_ghosting|lcd_ghosting_fast" default="disabled"/>
 		<setting label="30024" type="select" id="gambatte_up_down_allowed" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

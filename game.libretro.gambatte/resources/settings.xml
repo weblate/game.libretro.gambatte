@@ -24,6 +24,7 @@
 		<setting label="30021" type="select" id="gambatte_gbc_color_correction_mode" values="accurate|fast" default="accurate"/>
 		<setting label="30022" type="select" id="gambatte_gbc_frontlight_position" values="central|above screen|below screen" default="central"/>
 		<setting label="30023" type="select" id="gambatte_mix_frames" values="disabled|mix|lcd_ghosting|lcd_ghosting_fast" default="disabled"/>
-		<setting label="30024" type="select" id="gambatte_up_down_allowed" values="disabled|enabled" default="disabled"/>
+		<setting label="30024" type="select" id="gambatte_rumble_level" values="10|0|1|2|3|4|5|6|7|8|9" default="10"/>
+		<setting label="30025" type="select" id="gambatte_up_down_allowed" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

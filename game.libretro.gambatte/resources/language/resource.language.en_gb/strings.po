@@ -113,5 +113,9 @@ msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30024"
+msgid "Gamepad Rumble Strength"
+msgstr ""
+
+msgctxt "#30025"
 msgid "Allow Opposing Directions"
 msgstr ""
